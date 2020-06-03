@@ -7,3 +7,4 @@ master
 beta1
 1.1
 beta2
+master
